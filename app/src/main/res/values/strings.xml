@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LiveData</string>
+    <string name="score_counter">Score counter</string>
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team B</string>
+    <string name="reset">Reset</string>
+</resources>
